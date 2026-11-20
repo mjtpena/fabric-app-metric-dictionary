@@ -3,8 +3,8 @@
 One searchable place where every business metric has an owner, a plain-English definition, the exact formula in
 business words and the name of the measure that implements it. Owners write and maintain their metrics, stewards approve
 each version, and the full version history and review trail stay on the metric. Editing an approved metric creates the
-next minor version and sends it back for review, while the approved version stays visible. A Fabric App (Rayfin 2.0,
-preview) with a Fabric SQL database behind it.
+next minor version and sends it back for review, while the approved version stays visible. A Fabric App (Rayfin 2.0)
+with a Fabric SQL database behind it.
 
 ![The periodic table of metrics](apps/metric-dictionary/docs/screenshot.png)
 
@@ -50,7 +50,7 @@ Demo video (about 2 minutes, AI-generated narration, captions burned in): [demo/
 
 ## 1. Prerequisites
 
-- Microsoft Fabric with the **Fabric Apps** workload enabled for your tenant (preview).
+- Microsoft Fabric with the **Fabric Apps** workload enabled for your tenant.
 - A Fabric workspace on a capacity (trial or F SKU), and **Contributor** (Edit) permission on it to deploy.
 - Node.js 20 or later.
 - People who use the app need access to the app item (workspace members get it by default). No semantic model or

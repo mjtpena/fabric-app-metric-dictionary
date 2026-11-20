@@ -95,7 +95,7 @@ export function AboutPage() {
         </ul>
       </section>
 
-      <p className="m-0 mt-10 text-xs text-muted">Built by Datachain Consulting for AI @Work. Runs on Microsoft Fabric Apps (preview).</p>
+      <p className="m-0 mt-10 text-xs text-muted">Built by Datachain Consulting for AI @Work. Runs on Microsoft Fabric Apps.</p>
     </article>
   );
 }

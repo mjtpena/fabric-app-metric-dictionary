@@ -129,7 +129,7 @@ export const script: DemoScript = {
     },
     {
       id: 'takeaway',
-      say: ['One definition per metric, one owner and one approval trail, running as a Fabric App in preview.'],
+      say: ['One definition per metric, one owner and one approval trail, running as a Fabric App.'],
       async run(h) {
         await h.goto('/', 'demo-steward');
         await h.pause(5000);
