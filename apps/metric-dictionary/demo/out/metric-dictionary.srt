@@ -1,0 +1,115 @@
+1
+00:00:03,207 --> 00:00:05,985
+Every team has three versions of revenue, and
+
+2
+00:00:05,985 --> 00:00:08,577
+nobody knows which one the dashboard uses.
+
+3
+00:00:09,027 --> 00:00:12,608
+Metric Dictionary lays every metric out as a periodic
+
+4
+00:00:12,608 --> 00:00:16,527
+table: one element per metric, grouped by business domain.
+
+5
+00:00:16,977 --> 00:00:21,190
+The finish is the status: solid is approved, outlined is
+
+6
+00:00:21,190 --> 00:00:25,327
+in review, hatched is a draft, and faded is deprecated.
+
+7
+00:00:26,448 --> 00:00:31,547
+Lenses re-colour the same table: by status, by owner, and
+
+8
+00:00:31,547 --> 00:00:36,378
+by freshness, the days since each metric last changed.
+
+9
+00:00:38,457 --> 00:00:42,284
+The Today panel ranks what needs a steward. Gross
+
+10
+00:00:42,284 --> 00:00:46,267
+Margin version 1.1 would change an approved metric.
+
+11
+00:00:46,717 --> 00:00:49,415
+One click focuses that element and opens
+
+12
+00:00:49,415 --> 00:00:52,247
+a preview with its definition and formula.
+
+13
+00:00:53,055 --> 00:00:56,240
+The element card holds the definition, the formula in
+
+14
+00:00:56,240 --> 00:00:59,305
+business words, and the measure that implements it.
+
+15
+00:00:59,755 --> 00:01:02,718
+Its isotopes are the versions, and each one
+
+16
+00:01:02,718 --> 00:01:06,025
+opens as tracked changes against the one before.
+
+17
+00:01:07,997 --> 00:01:11,926
+View as owner dims everything that is not yours, so Sam
+
+18
+00:01:11,926 --> 00:01:15,497
+sees his own elements and what they need from him.
+
+19
+00:01:18,351 --> 00:01:21,544
+In the Lab, Sam proposes a new metric. The element
+
+20
+00:01:21,544 --> 00:01:24,801
+preview and the duplicate check update as he types.
+
+21
+00:01:25,251 --> 00:01:29,266
+Churned revenue overlaps with Customer Churn Rate and Revenue,
+
+22
+00:01:29,266 --> 00:01:32,051
+so he can read those before adding another.
+
+23
+00:01:32,501 --> 00:01:34,650
+He saves it as a draft, and it
+
+24
+00:01:34,650 --> 00:01:37,301
+joins the table as a hatched element.
+
+25
+00:01:38,105 --> 00:01:40,990
+Stewards approve in Peer review, where a re-review
+
+26
+00:01:40,990 --> 00:01:44,105
+shows exactly what changed since the approved version.
+
+27
+00:01:44,908 --> 00:01:50,848
+Approved elements export as a printable poster, a Markdown table or a CSV.
+
+28
+00:01:51,652 --> 00:01:55,234
+One definition per metric, one owner and one approval
+
+29
+00:01:55,234 --> 00:01:58,072
+trail, running as a Fabric App in preview.
